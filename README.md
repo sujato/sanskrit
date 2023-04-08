@@ -1,2 +1,7 @@
 # sanskrit
-A place for Sanskrit  texts 
+
+
+[A place for Sanskrit  texts](https://sujato.github.io/sanskrit) 
+
+
+
